@@ -1,0 +1,21 @@
+{
+  "name": "barcodeappelectronjs",
+  "productName": "Barcode Application",
+  "version": "1.0.0",
+  "description": "Barcode Application developed on Electron JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Waseem Bakhsh Specialist ERP and Software",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.3",
+    "electron-installer-dmg": "^3.0.0",
+    "electron-packager": "^14.0.4",
+    "electron-winstaller": "^4.0.0"
+  },
+  "dependencies": {
+    "node-hid": "^0.7.9"
+  }
+}
